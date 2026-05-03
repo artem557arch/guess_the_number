@@ -16,3 +16,6 @@
 3. Запусти в терминале:
    ```bash
    python guess_the_number.py
+
+#Пример игры
+<img width="667" height="476" alt="image" src="https://github.com/user-attachments/assets/76731004-4b84-42b9-92d8-685d033d5ee5" />
